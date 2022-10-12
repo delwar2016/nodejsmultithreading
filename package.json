@@ -1,0 +1,16 @@
+{
+  "name": "example1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db-operation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mgeneratejs": "^0.6.0",
+    "mongodb": "~1.3.19",
+    "mongoose": "~4.11.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
